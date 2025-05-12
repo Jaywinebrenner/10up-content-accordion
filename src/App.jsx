@@ -8,7 +8,9 @@ function App() {
   return (
     <>
     <div className='header-wrapper'>
-      <h1>10UP Content Accordion Component Code Example</h1>
+      <div className='title-wrapper'>
+        <h1>10UP Content Accordion Component Code Example</h1>
+      </div>
       <div className='img-wrapper'>
         <img src="/logo.png"/>
       </div>
