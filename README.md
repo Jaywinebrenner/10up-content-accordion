@@ -1,12 +1,56 @@
-# React + Vite
+# React Accordion Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**By Jay Winebrenner**  
+📫 [jaywinebrenner@gmail.com](mailto:jaywinebrenner@gmail.com)  
+🌐 [Portfolio Website](https://www.jaywinebrenner.com)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Local Development Setup
 
-## Expanding the ESLint configuration
+This is a Vite + React project. Follow these steps to run it locally:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+- Node.js (v16 or higher recommended)
+- npm or yarn
+
+### Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Jaywinebrenner/10up-content-accordion
+   cd your-repo
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. **Open in browser**  
+   The app will launch at:  
+   [http://localhost:5173](http://localhost:5173)
+
+### Available Scripts
+- `dev`: Starts development server
+- `build`: Creates production build
+- `preview`: Locally preview production build
+
+---
+
+## 🛠️ Technologies Used
+- React 18
+- Vite
+- CSS Variables
+- Mobile-first responsive design
+
+## 📄 License
+MIT
